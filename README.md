@@ -35,7 +35,7 @@ This project applies **unsupervised machine learning** techniques to segment cus
 
 ---
 
-# 📈 Result: 7 Clusters Found
+📈 Result: 7 Clusters Found
 
 Using PCA and clustering, the customers were grouped into **7 distinct segments** based on purchasing behavior. Each cluster represents different customer personas which could be:
 
